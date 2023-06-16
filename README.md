@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN and MEAN projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)
+- 👨‍💻 Take a look at my portfolio [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)
 
 - 💬 Ask me about **react, api, etc.**
 
