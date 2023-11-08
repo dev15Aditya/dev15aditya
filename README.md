@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienx1&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
-- 🌱 I’m currently learning **competitive programming**
+- 🌱 I’m currently diving deep into **NEXT JS 13**
 
-- 👯 I’m looking to collaborate on **MERN and MEAN projects**
+- 👯 I’m looking to collaborate on **MERN projects**
 
 - 👨‍💻 Take a look at my portfolio [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)
 
