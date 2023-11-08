@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aditya1115.ar@gmail.com**
 
-- ⚡ Fun fact **I am dumb af.**
+- ⚡ Fun fact **I constantly try to be funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
