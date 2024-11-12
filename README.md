@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienx1&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
-- 🌱 I’m currently diving deep into **NEXT JS 13**
-
-- 👯 I’m looking to collaborate on **MERN projects**
-
-- 👨‍💻 Take a look at my portfolio [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)
-
-- 💬 Ask me about **react, api, etc.**
-
 - 📫 How to reach me **aditya1115.ar@gmail.com**
-
-- ⚡ Fun fact **I constantly try to be funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
