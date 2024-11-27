@@ -1,18 +1,35 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi, I'm Aditya Raj!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alienx1&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
+Welcome to my GitHub profile! I'm a passionate software developer diving deep into the world of **Java Spring Boot** and exploring the fascinating field of **Artificial Intelligence**. 🚀
 
-- 📫 How to reach me **aditya1115.ar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev15aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev15aditya" height="30" width="40" /></a>
-</p>
+## 🌟 About Me
+- 💻 **Technologies I Work With:**
+  - Frontend: React.js, Next.js, Angular
+  - Backend: Node.js, Express.js, Java Spring Boot
+  - Databases: MongoDB, SQL
+  - Cloud: Google Cloud Platform (GCP), AWS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 **Currently Learning:**
+  - Java Spring Boot
+  - Advanced AI and Machine Learning concepts
+  - Exploring design patterns and scalable architectures
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienx1&show_icons=true&locale=en&layout=compact" alt="alienx1" /></p> -->
+- 🤖 **AI Enthusiast:** I’m deeply interested in AI and its potential to solve real-world problems. Constantly experimenting with AI projects and learning new models.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev15Aditya&" alt="alienx1" /></p>
+---
+
+## 📈 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev15Aditya&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+- 📫 Email: [aditya1115.ar@gmail.com](mailto:aditya1115.ar@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aditya3606](https://linkedin.com/in/aditya-raj)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+Let's build something amazing together!
