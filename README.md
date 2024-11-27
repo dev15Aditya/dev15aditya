@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 ---
 
 ## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev15Aditya&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev15Aditya?cardType=level&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
