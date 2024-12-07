@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 
 ---
 
-## 📈 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev15Aditya?cardType=level&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
-
----
-
 ## 🔗 Connect with Me
 - 📫 Email: [aditya1115.ar@gmail.com](mailto:aditya1115.ar@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/aditya3606](https://linkedin.com/in/aditya-raj)
